@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a615fdf-6abf-4001-a761-c30999c027c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kimminseok/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kimminseok/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kimminseok/domain/FrequencyVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kimminseok/domain/FrequencyVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kimminseok/repository/FileInvertingRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kimminseok/repository/FileInvertingRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/FrequencyVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/FrequencyVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/WordFrequencyVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/WordFrequencyVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/FileInvertingRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repository/FileInvertingRepository.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1626929819" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1626929818" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vciZ2DhTBHtv4NZvEJMuUBxAzY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="domain" />
+      <recent name="repository" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="kimminseok" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a615fdf-6abf-4001-a761-c30999c027c9" name="Default Changelist" comment="" />
+      <created>1626867829825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626867829825</updated>
+      <workItem from="1626867831039" duration="12772000" />
+      <workItem from="1626914539905" duration="12396000" />
+      <workItem from="1626931281015" duration="925000" />
+      <workItem from="1626959606314" duration="787000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2216" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1626929584610">
+      <screen x="1792" y="-100" width="1920" height="989" />
+    </state>
+    <state x="2216" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.-100.1920.988/0.23.1792.1097@1792.-100.1920.988" timestamp="1626867886024" />
+    <state x="2216" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.-100.1920.989/0.23.1792.1097@1792.-100.1920.989" timestamp="1626929584610" />
+    <state x="2491" y="194" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1626924000805">
+      <screen x="1792" y="-100" width="1920" height="989" />
+    </state>
+    <state x="2491" y="194" key="#com.intellij.fileTypes.FileTypeChooser/1792.-100.1920.988/0.23.1792.1097@1792.-100.1920.988" timestamp="1626868352621" />
+    <state x="2491" y="194" key="#com.intellij.fileTypes.FileTypeChooser/1792.-100.1920.989/0.23.1792.1097@1792.-100.1920.989" timestamp="1626924000805" />
+    <state x="2565" y="104" key="#com.intellij.ide.util.MemberChooser" timestamp="1626959726734">
+      <screen x="1792" y="-100" width="1920" height="989" />
+    </state>
+    <state x="2565" y="104" key="#com.intellij.ide.util.MemberChooser/1792.-100.1920.988/0.23.1792.1097@1792.-100.1920.988" timestamp="1626917723925" />
+    <state x="2565" y="104" key="#com.intellij.ide.util.MemberChooser/1792.-100.1920.989/0.23.1792.1097@1792.-100.1920.989" timestamp="1626959726734" />
+    <state x="2261" y="-100" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1626922333930">
+      <screen x="1792" y="-100" width="1920" height="989" />
+    </state>
+    <state x="2261" y="-100" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1792.-100.1920.989/0.23.1792.1097@1792.-100.1920.989" timestamp="1626922333930" />
+    <state x="2509" y="258" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1626869455243">
+      <screen x="1792" y="-100" width="1920" height="988" />
+    </state>
+    <state x="2509" y="258" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1792.-100.1920.988/0.23.1792.1097@1792.-100.1920.988" timestamp="1626869455243" />
+    <state width="1878" height="409" key="GridCell.Tab.0.bottom" timestamp="1626960176098">
+      <screen x="1792" y="-100" width="1920" height="989" />
+    </state>
+    <state width="1878" height="262" key="GridCell.Tab.0.bottom/1792.-100.1920.988/0.23.1792.1097@1792.-100.1920.988" timestamp="1626917878302" />
+    <state width="1878" height="409" key="GridCell.Tab.0.bottom/1792.-100.1920.989/0.23.1792.1097@1792.-100.1920.989" timestamp="1626960176098" />
+    <state width="1878" height="409" key="GridCell.Tab.0.center" timestamp="1626960176097">
+      <screen x="1792" y="-100" width="1920" height="989" />
+    </state>
+    <state width="1878" height="262" key="GridCell.Tab.0.center/1792.-100.1920.988/0.23.1792.1097@1792.-100.1920.988" timestamp="1626917878301" />
+    <state width="1878" height="409" key="GridCell.Tab.0.center/1792.-100.1920.989/0.23.1792.1097@1792.-100.1920.989" timestamp="1626960176097" />
+    <state width="1878" height="409" key="GridCell.Tab.0.left" timestamp="1626960176097">
+      <screen x="1792" y="-100" width="1920" height="989" />
+    </state>
+    <state width="1878" height="262" key="GridCell.Tab.0.left/1792.-100.1920.988/0.23.1792.1097@1792.-100.1920.988" timestamp="1626917878301" />
+    <state width="1878" height="409" key="GridCell.Tab.0.left/1792.-100.1920.989/0.23.1792.1097@1792.-100.1920.989" timestamp="1626960176097" />
+    <state width="1878" height="409" key="GridCell.Tab.0.right" timestamp="1626960176098">
+      <screen x="1792" y="-100" width="1920" height="989" />
+    </state>
+    <state width="1878" height="262" key="GridCell.Tab.0.right/1792.-100.1920.988/0.23.1792.1097@1792.-100.1920.988" timestamp="1626917878302" />
+    <state width="1878" height="409" key="GridCell.Tab.0.right/1792.-100.1920.989/0.23.1792.1097@1792.-100.1920.989" timestamp="1626960176098" />
+    <state width="1878" height="324" key="GridCell.Tab.1.bottom" timestamp="1626881576566">
+      <screen x="1792" y="-100" width="1920" height="988" />
+    </state>
+    <state width="1878" height="324" key="GridCell.Tab.1.bottom/1792.-100.1920.988/0.23.1792.1097@1792.-100.1920.988" timestamp="1626881576566" />
+    <state width="1878" height="324" key="GridCell.Tab.1.center" timestamp="1626881576565">
+      <screen x="1792" y="-100" width="1920" height="988" />
+    </state>
+    <state width="1878" height="324" key="GridCell.Tab.1.center/1792.-100.1920.988/0.23.1792.1097@1792.-100.1920.988" timestamp="1626881576565" />
+    <state width="1878" height="324" key="GridCell.Tab.1.left" timestamp="1626881576565">
+      <screen x="1792" y="-100" width="1920" height="988" />
+    </state>
+    <state width="1878" height="324" key="GridCell.Tab.1.left/1792.-100.1920.988/0.23.1792.1097@1792.-100.1920.988" timestamp="1626881576565" />
+    <state width="1878" height="324" key="GridCell.Tab.1.right" timestamp="1626881576566">
+      <screen x="1792" y="-100" width="1920" height="988" />
+    </state>
+    <state width="1878" height="324" key="GridCell.Tab.1.right/1792.-100.1920.988/0.23.1792.1097@1792.-100.1920.988" timestamp="1626881576566" />
+  </component>
+</project>
