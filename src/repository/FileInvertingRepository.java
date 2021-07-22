@@ -40,32 +40,12 @@ public class FileInvertingRepository {
                 .sorted(Comparator.naturalOrder()) // 단어 정렬
                 .map(word -> {
                     final List<FrequencyVO> wordFrequency = this.wordFrequencyMap.get(word);
-                    this.wordFrequencyMap.get(word).sort(this.sortFrequencyDto()); // 빈도수, doc 정렬
+
+                    // 빈도수, doc 정렬
+                    Collections.sort(wordFrequency);
+
                     return new WordFrequencyVO(word, wordFrequency);
                 })
                 .collect(Collectors.toList());
-    }
-
-    /**
-     * 빈도수 정보 정렬 Comparator
-     * 정렬 기준: 1. 빈도수 2. 문서 ID
-     * @return Comparator<FrequencyVO>
-     */
-    private Comparator<FrequencyVO> sortFrequencyDto() {
-        return (o1, o2) -> {
-            final int o1Doc = o1.getDoc();
-            final int o2Doc = o2.getDoc();
-            final int o1Frequency = o1.getFrequency();
-            final int o2Frequency = o2.getFrequency();
-
-            if (o2Frequency == o1Frequency) {
-                if (o1Doc == o2Doc) {
-                    return 0;
-                }
-                return o1Doc > o2Doc ? 1 : -1;
-            }
-
-            return (o2Frequency > o1Frequency) ? 1 : -1;
-        };
     }
 }

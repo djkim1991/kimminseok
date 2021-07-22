@@ -12,6 +12,7 @@ public class WordFrequencyVO {
         this.frequencies = frequencies;
     }
 
+    @Override
     public String toString() {
         final String frequenciesStr = frequencies.stream().map(FrequencyVO::toString).collect(Collectors.joining(" "));
         return word + " " + frequenciesStr;
