@@ -10,7 +10,7 @@ public class FileUtil {
      * @return BufferedReader
      * @throws IOException 파일 I/O
      */
-    public static BufferedReader getBufferedReader(String filePath) throws IOException {
+    public static BufferedReader getBufferedReader(final String filePath) throws IOException {
         FileReader rw = new FileReader(filePath);
         return new BufferedReader(rw);
     }
@@ -21,7 +21,7 @@ public class FileUtil {
      * @return BufferedWriter
      * @throws IOException 파일 I/O
      */
-    public static  BufferedWriter getBufferedWriter(String filePath) throws IOException {
+    public static  BufferedWriter getBufferedWriter(final String filePath) throws IOException {
         return new BufferedWriter(new FileWriter(filePath, false));
     }
 }

@@ -6,7 +6,7 @@ public class Main {
         final long start = System.currentTimeMillis();
 
         final String inputFilePath = args.length > 0 ? args[0] : "input.big";
-        final String outputFilePath = args.length > 0 ? args[0] : "output.big";
+        final String outputFilePath = args.length > 1 ? args[1] : "output.big";
 
         final FileInvertingService fileInvertingService = new FileInvertingService();
         fileInvertingService.read(inputFilePath);

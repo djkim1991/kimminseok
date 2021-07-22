@@ -16,7 +16,7 @@ public class StringUtil {
      * @param str 입력 문자열
      * @return String[]
      */
-    public static String[] extractWords(String str) {
+    public static String[] extractWords(final String str) {
         return StringUtil.replaceSpecialChar(str, " ").split("\\s+");
     }
 }
